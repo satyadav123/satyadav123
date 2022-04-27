@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="center">
-  <img src="https://rankedbyvotes.com/wp-content/uploads/Community-Education.gif" width="80" height="70" alt="emogi">
+
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKCOTuLdxjDeQ76LjlB9T6bmybGMaI1wxcIg&usqp=CAU">
 </p>
 
