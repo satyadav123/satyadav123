@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Satendra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?<p align="center">
+<p align="center">
   <img src="https://rankedbyvotes.com/wp-content/uploads/Community-Education.gif" width="80" height="70" alt="emogi">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Curious%20to%20Learn%20NewTech;Passionate%20Coder;Self%20taught%20Programmer;Quick%20Learner%20Programmer&center=true&width=500&height=50">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKCOTuLdxjDeQ76LjlB9T6bmybGMaI1wxcIg&usqp=CAU">
 </p>
 
 
