@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Satendra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1292677%2Fscreenshots%2F6139167%2Favento_still_2x.gif%3Fcompress%3D1%26resize%3D400x300&imgrefurl=https%3A%2F%2Fdribbble.com%2Ftags%2Fcoding-gif&tbnid=8XkhQxcDyZ0PpM&vet=12ahUKEwjlpqWUmbT3AhV5xzgGHcOKBVoQMygCegUIARDUAQ..i&docid=mH7vmCH3UZgGiM&w=400&h=300&q=animated%20coding%20images&ved=2ahUKEwjlpqWUmbT3AhV5xzgGHcOKBVoQMygCegUIARDUAQ"/>
+
+<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?<p align="center">
+  <img src="https://rankedbyvotes.com/wp-content/uploads/Community-Education.gif" width="80" height="70" alt="emogi">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Curious%20to%20Learn%20NewTech;Passionate%20Coder;Self%20taught%20Programmer;Quick%20Learner%20Programmer&center=true&width=500&height=50">
+</p>
+
 
 - 🔭 I’m currently working on **Full-Stack Web Development**
 
