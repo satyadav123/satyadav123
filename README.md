@@ -7,7 +7,7 @@
 </p>
 
 
-- 🔭 I’m currently working on **Full-Stack Web Development**
+- 🔭 I’m currently working on **Front-End Web Development**
 
 - 🌱 I’m currently learning **MERN Development**
 
@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **sk259454@gmail.com**
 
-- 📄 Know about my experiences [resume link](resume link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
